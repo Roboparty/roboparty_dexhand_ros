@@ -1,0 +1,8 @@
+# RP_Hand node defaults (override per instance with --ros-args -p name:=value)
+dexhand_node:
+  ros__parameters:
+    interface: "can0"
+    node_id: 1
+    velocity: 8000
+    auto_init: true
+    home_on_init: true
