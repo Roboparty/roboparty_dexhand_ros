@@ -6,7 +6,7 @@ The current ROS package targets **ROS 2 Jazzy**. For existing Humble / dexhand_p
 
 - [RP Hand product documentation, wiring, applications and models](https://github.com/Roboparty/rp_dexhand)
 - [SDK source and ROS 2 documentation](https://github.com/Roboparty/roboparty_dexhand/blob/main/docs/ros2.md)
-- [Migration guide](https://github.com/Roboparty/rp_dexhand/blob/docs/developer-experience-20261019/docs/compatibility.md)
+- [Migration guide](https://github.com/Roboparty/rp_dexhand/blob/ecfd45f11696b1dfd9a286ccc5fed27511240610/docs/compatibility.md)
 
 ---
 
